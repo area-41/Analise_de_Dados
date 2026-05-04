@@ -1,6 +1,6 @@
 # Análise de Dados: Qualidade de Vinhos Tintos 🍷
 
-Este repositório contém uma análise exploratória detalhada sobre o conjunto de dados **Red Wine Quality** (Cortez et al., 2009). O objetivo principal é entender como as propriedades físico-químicas, como teor alcoólico, acidez e pH, interagem para determinar a qualidade do vinho.
+Este [notebook](https://github.com/area-41/Analise_de_Dados/blob/main/notebooks/red-wine-quality.ipynb) contém uma análise exploratória detalhada sobre o conjunto de dados **Red Wine Quality** (Cortez et al., 2009). O objetivo principal é entender como as propriedades físico-químicas, como teor alcoólico, acidez e pH, interagem para determinar a qualidade do vinho.
 
 ### Visão Geral
 A análise foi desenvolvida originalmente em um ambiente Kaggle Notebook, focando na transformação de dados brutos em informações acionáveis através de:
