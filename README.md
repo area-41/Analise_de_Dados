@@ -4,7 +4,7 @@ Este repositório contém estudos de caso e experiências em Ciência de Dados, 
 
 ## Projetos em Destaque
 
-### 1. [Qualidade de Vinhos Tintos 🍷](/workspaces/Analise_de_Dados/Red Wine Quality/notebooks/red-wine-quality.ipynb)
+### 1. [Qualidade de Vinhos Tintos 🍷](https://github.com/area-41/Analise_de_Dados/Red Wine Quality/Qualidade de Vinhos Tinto.md)
 Análise profunda das propriedades físico-químicas.
 
 * **Técnicas:** Engenharia de atributos (Z-Score), tratamento de outliers e agrupamentos hierárquicos.
@@ -22,3 +22,8 @@ Análise profunda das propriedades físico-químicas.
 1. Acesse a pasta `notebooks/`.
 2. Clique no notebook desejado.
 3. Utilize o botão **"Open in Colab"** ou importe o arquivo para o seu perfil no **Kaggle**.
+
+### Via Ambiente Local
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/Analise_de_Dados.git](https://github.com/seu-usuario/Analise_de_Dados.git)
