@@ -4,7 +4,7 @@ Este repositório contém estudos de caso e experiências em Ciência de Dados, 
 
 ## Projetos em Destaque
 
-### 1. [Qualidade de Vinhos Tintos 🍷](https://github.com/area-41/Analise_de_Dados/Red Wine Quality/Qualidade de Vinhos Tinto.md)
+### 1. [Qualidade de Vinhos Tintos 🍷](https://github.com/area-41/Analise_de_Dados/blob/main/Red%20Wine%20Quality/Qualidade%20de%20Vinhos%20Tinto.md)
 Análise profunda das propriedades físico-químicas.
 
 * **Técnicas:** Engenharia de atributos (Z-Score), tratamento de outliers e agrupamentos hierárquicos.
